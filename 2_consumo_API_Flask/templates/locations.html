@@ -1,0 +1,25 @@
+{% extends "layout.html" %}
+
+{% block content %}
+
+<div class="row">
+
+    {% for location in locations %}
+
+        <div class="col-sm-3 col-6">
+
+            <table class="location" border="1">
+                <th>Nome: {{location.name}}</th>
+                <th>Tipo: {{location.type}}</th>
+                <th>Dimensão: {{location.dimension}}</th>
+            </table>
+
+            <p>
+                <a href="/locations/{{location.name}}" class="btn btn-primary">Ver localização</a>
+            </p>
+
+        </div>
+
+    {% endfor %}
+</div>
+{% endblock %}
