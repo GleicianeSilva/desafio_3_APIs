@@ -6,7 +6,7 @@
 </br>
 <div align="justify">
  
-- 👷🏻‍♀️Desafio 3 (APIs), proposto pelo Bootcamp Back-End Python e Django - WoMakersCode ® através de exercícios feitos e programado python.
+ 👷🏻‍♀Desafio 3 (APIs), proposto pelo Bootcamp Back-End Python e Django - WoMakersCode ® através de exercícios feitos e programado python.
   
 </div>
 </br>
