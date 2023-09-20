@@ -7,9 +7,10 @@
 </br>
 <div align="justify">
 - 👷🏻‍♀️Desafio 3 (APIs), proposto pelo Bootcamp Back-End Python e Django - WoMakersCode ® através de exercícios feitos e programado python. 
-  
-  ** Criação de aplicação em CRUD com FastAPI e SQLAlchemy;
-  ** Como criar API com Flask-APP, utilizando o API Rick e Morty.
-  ** Criando de requisições através do HTTP GET Requests, HTTP POST Requests, HTTP DELETE Requests, HTTPExceptions e HTTP PUT Requests.
+  </br>
+  -- Criação de aplicação em CRUD com FastAPI e SQLAlchemy;
+  -- Como criar API com Flask-APP, utilizando o API Rick e Morty.
+  -- Criando de requisições através do HTTP GET Requests, HTTP POST Requests, HTTP DELETE Requests, HTTPExceptions e HTTP PUT Requests.
+  </br>
 </div>
 </br>
